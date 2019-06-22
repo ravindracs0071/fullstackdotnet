@@ -1,0 +1,204 @@
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.WebUI.dll.config
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.WebUI.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.WebUI.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csc.exe
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csc.exe.config
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csc.rsp
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csi.exe
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csi.exe.config
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csi.rsp
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Console.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\vbc.exe
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\vbc.rsp
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Helpers.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Mvc.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Optimization.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Razor.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\WebGrease.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Helpers.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Mvc.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Optimization.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Razor.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.csproj.CopyComplete
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.csprojAssemblyReference.cache
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.DataAccess.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Container.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\EntityFramework.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Abstractions.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Mvc5.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.DataAccess.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.DataAccess.dll.config
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Container.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\EntityFramework.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Abstractions.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\CommonServiceLocator.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Configuration.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Interception.Configuration.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Interception.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.RegistrationByConvention.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.ServiceLocation.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\CommonServiceLocator.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Configuration.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Interception.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Interception.Configuration.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.RegistrationByConvention.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\Unity.ServiceLocation.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI\bin\EntityFramework.SqlServer.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.WebUI.dll.config
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.WebUI.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.WebUI.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csc.exe
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csc.exe.config
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csc.rsp
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csi.exe
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csi.exe.config
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\csi.rsp
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.AppContext.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Collections.Immutable.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Console.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.IO.Compression.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.IO.FileSystem.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.IO.Pipes.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.AccessControl.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Claims.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.ValueTuple.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Xml.XPath.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\vbc.exe
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\vbc.exe.config
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\vbc.rsp
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\VBCSCompiler.exe
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\roslyn\VBCSCompiler.exe.config
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Antlr3.Runtime.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\CommonServiceLocator.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\EntityFramework.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\EntityFramework.SqlServer.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.DataAccess.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Microsoft.Web.Infrastructure.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Newtonsoft.Json.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Helpers.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Mvc.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Optimization.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Razor.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.Deployment.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.Razor.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Abstractions.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Configuration.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Container.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Interception.Configuration.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Interception.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Mvc5.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.RegistrationByConvention.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.ServiceLocation.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\WebGrease.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.DataAccess.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\HCL.UBP.DataAccess.dll.config
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\CommonServiceLocator.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\EntityFramework.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\EntityFramework.SqlServer.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Helpers.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Mvc.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Optimization.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.Razor.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.Deployment.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\System.Web.WebPages.Razor.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Newtonsoft.Json.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Abstractions.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Configuration.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Container.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Interception.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.Interception.Configuration.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.RegistrationByConvention.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Unity.ServiceLocation.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Antlr3.Runtime.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.csprojAssemblyReference.cache
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.csproj.CoreCompileInputs.cache
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.csproj.CopyComplete
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.pdb

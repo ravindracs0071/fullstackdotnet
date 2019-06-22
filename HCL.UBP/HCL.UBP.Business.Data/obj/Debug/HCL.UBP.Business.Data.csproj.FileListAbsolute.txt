@@ -1,0 +1,11 @@
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.Business.Data\bin\Debug\HCL.UBP.Business.Data.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.Business.Data\bin\Debug\HCL.UBP.Business.Data.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.Business.Data\obj\Debug\HCL.UBP.Business.Data.csproj.CoreCompileInputs.cache
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.Business.Data\obj\Debug\HCL.UBP.Business.Data.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.Business.Data\obj\Debug\HCL.UBP.Business.Data.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.Business.Data\bin\Debug\HCL.UBP.Business.Data.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.Business.Data\bin\Debug\HCL.UBP.Business.Data.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.Business.Data\obj\Debug\HCL.UBP.Business.Data.csprojAssemblyReference.cache
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.Business.Data\obj\Debug\HCL.UBP.Business.Data.csproj.CoreCompileInputs.cache
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.Business.Data\obj\Debug\HCL.UBP.Business.Data.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.Business.Data\obj\Debug\HCL.UBP.Business.Data.pdb

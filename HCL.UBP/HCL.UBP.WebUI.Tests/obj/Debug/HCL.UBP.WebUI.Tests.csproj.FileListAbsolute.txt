@@ -1,0 +1,92 @@
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.Tests.dll.config
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.Tests.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.Tests.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Unity.Container.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.DataAccess.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Unity.Abstractions.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Unity.Mvc5.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.dll.config
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Unity.Container.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.DataAccess.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.DataAccess.dll.config
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Unity.Abstractions.pdb
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.csprojAssemblyReference.cache
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.csproj.CopyComplete
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.dll
+C:\Users\anand\Documents\Visual Studio 2017\Projects\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.Tests.dll.config
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.Tests.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.Tests.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Razor.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Unity.Container.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.DataAccess.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Unity.Abstractions.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Unity.Mvc5.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\EntityFramework.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.WebUI.dll.config
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Razor.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\System.Web.Optimization.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Unity.Container.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.DataAccess.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\HCL.UBP.DataAccess.dll.config
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\Unity.Abstractions.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\EntityFramework.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.csprojAssemblyReference.cache
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.csproj.CoreCompileInputs.cache
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.csproj.CopyComplete
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.pdb
