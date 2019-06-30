@@ -90,3 +90,6 @@ G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Deb
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.csproj.CopyComplete
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.dll
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\obj\Debug\HCL.UBP.WebUI.Tests.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\log4net.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\log4net.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI.Tests\bin\Debug\log4net.config

@@ -103,7 +103,6 @@ G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.DataAccess\bin\Debu
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.DataAccess\bin\Debug\Unity.Interception.Configuration.pdb
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.DataAccess\bin\Debug\Unity.RegistrationByConvention.pdb
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.DataAccess\bin\Debug\Unity.ServiceLocation.pdb
-G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.DataAccess\obj\Debug\HCL.UBP.DataAccess.csprojAssemblyReference.cache
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.DataAccess\obj\Debug\HCL.UBP.DataAccess.Migrations.Initial.resources
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.DataAccess\obj\Debug\HCL.UBP.DataAccess.csproj.GenerateResource.cache
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.DataAccess\obj\Debug\HCL.UBP.DataAccess.csproj.CoreCompileInputs.cache

@@ -202,3 +202,7 @@ G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.csproj.CopyComplete
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.dll
 G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\obj\Debug\HCL.UBP.WebUI.pdb
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\log4net.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\log4net.xml
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\UnityLog4NetExtension.dll
+G:\project-poly\HCLProtoType\fullstackdotnet\HCL.UBP\HCL.UBP.WebUI\bin\log4net.config

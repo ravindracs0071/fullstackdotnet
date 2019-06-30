@@ -1,4 +1,6 @@
-﻿using HCL.UBP.WebUI.Models;
+﻿using HCL.UBP.DataAccess.Interface;
+using HCL.UBP.WebUI.Models;
+using log4net;
 using Microsoft.AspNet.Identity;
 using System;
 using System.Collections.Generic;
@@ -14,9 +16,11 @@ namespace HCL.UBP.WebUI.Controllers
 {
     public class AccountController : Controller
     {
-        private readonly HCL.UBP.DataAccess.Interface.IUserRepository _userRepository;
-        public AccountController(HCL.UBP.DataAccess.Interface.IUserRepository userRepository)
+        private readonly IUserRepository _userRepository;
+        private readonly ILog _logger;
+        public AccountController(IUserRepository userRepository, ILog logger)
         {
+            _logger = logger;
             _userRepository = userRepository;
         }
         [AllowAnonymous]

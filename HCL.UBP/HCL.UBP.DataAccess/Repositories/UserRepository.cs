@@ -1,5 +1,6 @@
 ﻿using HCL.UBP.DataAccess.Interface;
 using HCL.UBP.DataAccess.Model;
+using log4net;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,11 @@ namespace HCL.UBP.DataAccess.Repositories
     {
         [Dependency]
         public UBPDbContext DbContext { get; set; }
+        private readonly ILog _logger;
+        public UserRepository(ILog logger)
+        {
+            _logger = logger;
+        }
         public bool CreateUser(UserDetails input)
         {
             try
@@ -23,7 +29,7 @@ namespace HCL.UBP.DataAccess.Repositories
             }
             catch (Exception ex)
             {
-                //TODO: ILogger
+                _logger.Error(ex);
                 throw new Exception(ex.Message);
             }
         }
@@ -39,7 +45,7 @@ namespace HCL.UBP.DataAccess.Repositories
             }
             catch (Exception ex)
             {
-                //TODO: ILogger
+                _logger.Error(ex);
                 throw new Exception(ex.Message);
             }
         }
@@ -52,7 +58,7 @@ namespace HCL.UBP.DataAccess.Repositories
             }
             catch (Exception ex)
             {
-                //TODO: ILogger
+                _logger.Error(ex);
                 throw new Exception(ex.Message);
             }
         }
@@ -80,7 +86,7 @@ namespace HCL.UBP.DataAccess.Repositories
             }
             catch (Exception ex)
             {
-                //TODO: ILogger
+                _logger.Error(ex);
                 throw new Exception(ex.Message);
             }
         }
